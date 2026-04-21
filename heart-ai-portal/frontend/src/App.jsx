@@ -293,7 +293,7 @@ function App() {
       </main>
 
       <footer style={{ marginTop: '4rem', textAlign: 'center', opacity: 0.5 }}>
-        <p>© 2026 AI Heart Diagnostic Suite • Powered by Antigravity AI</p>
+        <p>© 2026 AI Heart Diagnostic Suite • Powered by Rizwan Ullah</p>
       </footer>
 
       <style>{`
