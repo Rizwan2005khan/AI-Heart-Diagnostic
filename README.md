@@ -5,6 +5,10 @@
 
 ---
 
+## 🖼️ App Preview
+
+![AI Heart Diagnostic Portal](./ai-diagnostic.png)
+
 ## 🗺️ Project Overview
 
 This project is divided into two distinct yet integrated ecosystems:
