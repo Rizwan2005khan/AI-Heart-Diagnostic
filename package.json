@@ -1,0 +1,15 @@
+{
+  "name": "ai-heart-diagnostic-suite",
+  "version": "1.0.0",
+  "description": "End-to-end AI Heart Diagnostic Project",
+  "scripts": {
+    "start": "npm start --prefix heart-ai-portal",
+    "dev": "npm run dev --prefix heart-ai-portal",
+    "ml:train": "cd ai_diagnostics && .\\venv\\Scripts\\activate && python scripts/train.py",
+    "ml:compare": "cd ai_diagnostics && .\\venv\\Scripts\\activate && python scripts/compare_models.py",
+    "ml:app": "cd ai_diagnostics && .\\venv\\Scripts\\activate && streamlit run app.py"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
