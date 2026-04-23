@@ -12,7 +12,7 @@ An end-to-end Machine Learning pipeline and interactive diagnostic dashboard for
 ## 🗺️ Project Roadmap
 Here's a full map of our learning journey:
 
-![Project Roadmap](readme_images/Project_ReadMap.svg)
+![Project Roadmap](readme_images/Project_RoadMap.svg)
 
 ---
 
